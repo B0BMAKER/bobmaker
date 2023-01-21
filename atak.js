@@ -22,12 +22,12 @@ chats: {},
 ...(global.db || {})
 }
 
-global.ownerName = 'Abdiizy'
-global.ownerNumber = ["62859185981594@s.whatsapp.net"]
+global.ownerName = 'RoBotKuPintar'
+global.ownerNumber = ["6282278082114@s.whatsapp.net"]
 global.prefa = ['','.']
 global.mess = {
     wait: 'Wait Sis Please be patient',
-    succes: 'Good Luck Sis ?',
+    succes: 'Good Luck Master ?',
     admin: 'Group Admin Special Features!!!',
     botAdmin: 'Bots Must Be Admins First!!!',
     owner: 'Lu Siapa Kocak?',
@@ -293,7 +293,7 @@ jiren = `© Hay Kak ${pushname}
  *🇲🇨 Aku Adalah Bot War Dari Indonesian*
  *🇲🇨 Im A Bot War From Indonesian*
 
-° Owner  : 62859185981594
+° Owner  : 6282278082114
 ° Version : -
 ┈╱▔╲▂╱╱╱╱▂╱▔╲┈┈
 ▕▔╲┈╱▔╲┈┈╱╲╱▔▏┈
@@ -307,12 +307,12 @@ jiren = `© Hay Kak ${pushname}
 ┃╰─ ⏤͟͟͞BUG NYA ─➤ ↶↷
 ╰━•›ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙‹•━͙✩̣̣̣
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-^BUG BOT VIP BY 𝗞𝗬𝗟𝗢𝗢𝗡
+^BUG BOT VIP BY ROBOTKU PINTAR
 Info Botꫂ]
 ╭┈─────────────⩵꙰ཱི
-⎙ : *Name Own* : 𝗞𝘆𝗹𝗼𝗼𝗻
-⎙ : *Name bot* : 𝗕𝗼𝘁 𝗞𝘆𝗹𝗼𝗼𝗻🔥
-⎙ : *Nama sc* : 𝗝𝗲𝗿🔥
+⎙ : *Name Own* : ROBOTKUPINTAR
+⎙ : *Name bot* : ROBOTKUPINTAR🔥
+⎙ : *Nama sc* : SPOONGBOBZ🔥
 ╰───➤ 
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ❤️]
@@ -372,8 +372,8 @@ Bug Vip️ꫂ]
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
 ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 「 PENTING!!! 」
-㞮 : Yang Mau Buy Sc Ini Bisa Langsung Cht ke nomer https://wa.me/62859185981594
-㞮 : Sc By 𝗞𝘆𝗹𝗼𝗼𝗻
+㞮 : Yang Mau Buy Sc Ini Bisa Langsung Cht ke nomer https://wa.me/6282278082114
+㞮 : Sc By RoBotKuPintar
 `
 atakbotwhatsapp.reply(jiren)
 break
@@ -394,10 +394,10 @@ jiren = `
 atakbotwhatsapp.reply(jiren)
 break
 case 'akses':
-atakbotwhatsapp.reply(`UNTUK AKSES BOT CHAT OWNER : wa.me/62859185981594`)
+atakbotwhatsapp.reply(`UNTUK AKSES BOT CHAT OWNER : wa.me/6282278082114`)
 break
 case 'sewa':
-atakbotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/62859185981594`)
+atakbotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6282278082114`)
 break
 
 case 'restart':{
@@ -534,22 +534,22 @@ ydd = `HALLO AKU FIRZA`
 for (let i = 0; i < jumlah; i++) {
 var pollCreation = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "pollCreationMessage": {
-"name": "HALO 👋 SAYA BOT FIRZA",
+"name": "HALO 👋 SAYA BOT ROBOTKUPINTAR",
 "options": [
 {
-"optionName": "KATANYA WA KEBAL"
+"optionName": "KUMPULAN BOKEP REMAJA"
 },
 {
-"optionName": "BERANI VOTE GA"
+"optionName": "BOKEP TIKTOK"
 },
 {
-"optionName": "VOTE LAH SEMUA"
+"optionName": "BOKEP SMP"
 },
 {
-"optionName": "KATANYA KEBAL"
+"optionName": "BOKEP SMK"
 },
 {
-"optionName": "SALAM BROTHER BY FIRZA"
+"optionName": "BOKEP TANTE SADIS"
 }
 ],
 "selectableOptionsCount": 5
@@ -610,7 +610,7 @@ let jumlah = "5"
 for (let i = 0; i < jumlah; i++) {
 let kir = await atak.groupAcceptInvite(result)
 atak.sendMessage(kir, {
-text: 'BUG BY CYCLONE', 
+text: 'BUG BY ROBOTKUPINTAR', 
 templateButtons: [
    { callButton: { displayText: `☣️ WARNING !!! 💣💥 ☣️`, phoneNumber: ``}},
 { callButton: { displayText: `☣️ WARNING !!! 💣💥 ☣️`, phoneNumber: ``}},
