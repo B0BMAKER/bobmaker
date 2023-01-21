@@ -280,7 +280,7 @@ SILAHKAN PILIH MENU DIBAWAH
 • bugmenu
 • othermenu
 
-CREDIT : 𝗞𝘆𝗹𝗼𝗼𝗻
+CREDIT : ROBOTKUPINTAR
 RUNTIME BOT : ${runtime(process.uptime())}
 ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 `
