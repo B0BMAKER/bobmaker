@@ -23,7 +23,7 @@ chats: {},
 }
 
 global.ownerName = 'RoBotKuPintar'
-global.ownerNumber = ["6282278082114@s.whatsapp.net"]
+global.ownerNumber = ["6287738444826@s.whatsapp.net"]
 global.prefa = ['','.']
 global.mess = {
     wait: 'Wait Sis Please be patient',
@@ -293,26 +293,16 @@ jiren = `© Hay Kak ${pushname}
  *🇲🇨 Aku Adalah Bot War Dari Indonesian*
  *🇲🇨 Im A Bot War From Indonesian*
 
-° Owner  : 6282278082114
+° Owner  : 6287738444826
 ° Version : -
-┈╱▔╲▂╱╱╱╱▂╱▔╲┈┈
-▕▔╲┈╱▔╲┈┈╱╲╱▔▏┈
-▕▏┈▏╱▉╲┈┈╱▉╲▕▏┈
-┈╲▃▏▔▔▔╲▂▂▂▕╱┈┈
-┈┈┈▏┊┊┳┊╲▂╱┳▏┈┈
-┈┈▕╲▂┊╰━━┻━╱┈┈┈
-┈┈╱┈┈▔▔╲▂▂╱╲┈┈┈
-╭━•›ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙‹•━╮
-┃╭─────────⩵꙰ཱི࿐
-┃╰─ ⏤͟͟͞BUG NYA ─➤ ↶↷
-╰━•›ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙‹•━͙✩̣̣̣
+
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ^BUG BOT VIP BY ROBOTKU PINTAR
 Info Botꫂ]
 ╭┈─────────────⩵꙰ཱི
 ⎙ : *Name Own* : ROBOTKUPINTAR
 ⎙ : *Name bot* : ROBOTKUPINTAR🔥
-⎙ : *Nama sc* : SPOONGBOBZ🔥
+⎙ : *Nama sc* : SPOONGBOOBZ🔥
 ╰───➤ 
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ❤️]
@@ -327,53 +317,53 @@ Info Botꫂ]
 ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 Bug Vip️ꫂ]
 ╭━━•›〘 𝘽𝙐𝙂 𝙈𝙀𝙉𝙐 〙
-│㞮 : 👽〘 contoh 62xxx.ꫂ 〙
-│㞮 : 👹〘 contoh 62xxx.ꫂ 〙
-│㞮 : 💥〘 contoh 62xxx.ꫂ 〙
-│㞮 : 🥭〘 contoh 62xxx.ꫂ 〙
-│㞮 : 🌸〘 contoh 62xxx.ꫂ 〙
-│㞮 : 🍆〘 contoh 62xxx.ꫂ 〙
-│㞮 : 🍊〘 contoh 62xxx.ꫂ 〙
-│㞮 : 🍋〘 contoh 62xxx.ꫂ 〙
-│㞮 : 🍐〘 contoh 62xxx.ꫂ 〙
-│㞮 : 🌷〘 contoh 62xxx.ꫂ 〙
-│㞮 : 🗿〘 contoh 62xxx.ꫂ 〙
-│㞮 : 🔥〘 contoh 62xxx.ꫂ 〙
-│㞮 : banned〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : verify〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : santet〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : kill〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : brutal〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : bug1000〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : bug〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : troli〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : bom〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : mental〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : crash〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : bom〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : ganas〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : button〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : trava〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : katalog〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : bugmex〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : bugsuhu〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : bugjago〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : bugdarkness〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : bugwaifu〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : bugbully〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : bugslebew〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : bugneko〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : bughentai〘 contoh 62xxxxx.ꫂ 〙
-│㞮 : aduhcuy〘 fix!!! 〙
-│㞮 : poll 〘 Vote!!〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : 👽〘 contoh 62xxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : 👹〘 contoh 62xxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : 💥〘 contoh 62xxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : 🥭〘 contoh 62xxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : 🌸〘 contoh 62xxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : 🍆〘 contoh 62xxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : 🍊〘 contoh 62xxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : 🍋〘 contoh 62xxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : 🍐〘 contoh 62xxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : 🌷〘 contoh 62xxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : 🗿〘 contoh 62xxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : 🔥〘 contoh 62xxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : banned〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : verify〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : santet〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : kill〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : brutal〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : bug1000〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : bug〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : troli〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : bom〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : mental〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : crash〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : bom〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : ganas〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : button〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : trava〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : katalog〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : bugmex〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : bugsuhu〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : bugjago〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : bugdarkness〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : bugwaifu〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : bugbully〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : bugslebew〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : bugneko〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : bughentai〘 contoh 62xxxxx.ꫂ 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : aduhcuy〘 fix!!! 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : poll 〘 Vote!!〙
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•━•⩵࿐
 ╭━━•› 〘 ATTACK GROUP 〙
-│㞮 : santetgc〘 linkgc 〙
+│【♡ۣۜۜ፝͜͜͡͡✿➣ : santetgc〘 linkgc 〙
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
 ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 「 PENTING!!! 」
-㞮 : Yang Mau Buy Sc Ini Bisa Langsung Cht ke nomer https://wa.me/6282278082114
-㞮 : Sc By RoBotKuPintar
+【♡ۣۜۜ፝͜͜͡͡✿➣ : Yang Mau Buy Sc Ini Bisa Langsung Cht ke nomer https://wa.me/6287738444826
+【♡ۣۜۜ፝͜͜͡͡✿➣ : Sc By RoBotKuPintar
 `
 atakbotwhatsapp.reply(jiren)
 break
@@ -394,10 +384,10 @@ jiren = `
 atakbotwhatsapp.reply(jiren)
 break
 case 'akses':
-atakbotwhatsapp.reply(`UNTUK AKSES BOT CHAT OWNER : wa.me/6282278082114`)
+atakbotwhatsapp.reply(`UNTUK AKSES BOT CHAT OWNER : wa.me/6287738444826`)
 break
 case 'sewa':
-atakbotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6282278082114`)
+atakbotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6287738444826`)
 break
 
 case 'restart':{
