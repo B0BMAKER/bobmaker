@@ -23,7 +23,7 @@ chats: {},
 }
 
 global.ownerName = 'RoBotKuPintar'
-global.ownerNumber = ["6287738444826@s.whatsapp.net"]
+global.ownerNumber = ["6285814480623@s.whatsapp.net"]
 global.prefa = ['','.']
 global.mess = {
     wait: 'Wait Sis Please be patient',
@@ -362,7 +362,7 @@ Bug Vip️ꫂ]
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
 ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 「 PENTING!!! 」
-【♡ۣۜۜ፝͜͜͡͡✿➣ : Yang Mau Buy Sc Ini Bisa Langsung Cht ke nomer https://wa.me/6287738444826
+【♡ۣۜۜ፝͜͜͡͡✿➣ : Yang Mau Buy Sc Ini Bisa Langsung Cht ke nomer https://wa.me/6285814480623
 【♡ۣۜۜ፝͜͜͡͡✿➣ : Sc By RoBotKuPintar
 `
 atakbotwhatsapp.reply(jiren)
@@ -384,10 +384,10 @@ jiren = `
 atakbotwhatsapp.reply(jiren)
 break
 case 'akses':
-atakbotwhatsapp.reply(`UNTUK AKSES BOT CHAT OWNER : wa.me/6287738444826`)
+atakbotwhatsapp.reply(`UNTUK AKSES BOT CHAT OWNER : wa.me/6285814480623`)
 break
 case 'sewa':
-atakbotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6287738444826`)
+atakbotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6285814480623`)
 break
 
 case 'restart':{
