@@ -293,8 +293,8 @@ jiren = `© Hay Kak ${pushname}
  *🇲🇨 Aku Adalah Bot War Dari Indonesian*
  *🇲🇨 Im A Bot War From Indonesian*
 
-° Owner  : 6287738444826
-° Version : -
+° Owner  : 6285814480623
+° Version : 404 FORBIDDEN
 
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ^BUG BOT VIP BY ROBOTKU PINTAR
@@ -302,7 +302,7 @@ Info Botꫂ]
 ╭┈─────────────⩵꙰ཱི
 ⎙ : *Name Own* : ROBOTKUPINTAR
 ⎙ : *Name bot* : ROBOTKUPINTAR🔥
-⎙ : *Nama sc* : SPOONGBOOBZ🔥
+⎙ : *Nama sc* : 404FORBIDDEN🔥
 ╰───➤ 
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ❤️]
